@@ -11,6 +11,10 @@
 ![The Startup Ouadrand Dasboard](https://github.com/aysbt/Tableau_Project/blob/master/The%20Startups%20Quadrand%20Analysis%20Dash%20board.png)
 [The Startup Ouadrand Dasboard Project Link](https://public.tableau.com/profile/ayse.bat#!/vizhome/TheStarttupOuadrand/Dashboard1)
 
+## [Expansion Analysis Insights](Expansion Analysis Insights)
+![Expansion Analysis Insights](https://github.com/aysbt/Tableau_Project/blob/master/Expansion%20Analysis%20Insights.png)
+[Expansion Analysis Insights Project Link](Expansion Analysis Insights)
+
 ## []()
 ![]()
 []()
